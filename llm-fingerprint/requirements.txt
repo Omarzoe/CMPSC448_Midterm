@@ -1,0 +1,13 @@
+torch
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+tqdm
+datasets
+openai
+anthropic
+google-genai
+python-dotenv
